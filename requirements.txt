@@ -1,0 +1,21 @@
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+
+# AWS SDK
+boto3==1.35.0
+
+# Neo4j driver
+neo4j==5.20.0
+
+# Agent frameworks
+langgraph==0.0.45
+# Use compatible langchain version
+langchain==0.1.16
+
+# Data validation
+pydantic==2.9.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
